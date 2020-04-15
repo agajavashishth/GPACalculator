@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Year
+comment1.params=
+comment1.target=void\ Year()
+comment2.params=term
+comment2.target=void\ addSem(Semester)
+comment3.params=term
+comment3.target=void\ removeSem(Semester)
+comment4.params=
+comment4.target=void\ getCredits()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ showGPA()
+comment7.params=
+comment7.target=void\ showAll()
+numComments=8

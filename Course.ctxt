@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=
+comment1.target=Course()
+comment2.params=
+comment2.target=double\ getQualityPoint()
+comment3.params=
+comment3.target=double\ getCreditValue()
+comment4.params=
+comment4.target=java.lang.String\ getGrade()
+comment5.params=
+comment5.target=void\ setGrade()
+comment6.params=
+comment6.target=void\ printAll()
+comment7.params=name
+comment7.target=void\ setSem(java.lang.String)
+numComments=8
