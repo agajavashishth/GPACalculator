@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+
 
 PROJECT TITLE: GPA Calculator
 PURPOSE OF PROJECT: To calculate GPA on a 12.0 scale, with year and semester functionality.
 VERSION or DATE: 15th April 2020
-HOW TO START THIS PROJECT: Main class is not present.
 AUTHORS: Vashishth Agaja
-USER INSTRUCTIONS:
+NOTES: This project was successfully tested using BlueJ. JRE is required to compile and execute the JAR file
